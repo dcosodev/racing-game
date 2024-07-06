@@ -6,7 +6,7 @@ Welcome to the Racing Game repository! This project is a simple car racing game 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/racing-game.git
+    git clone https://github.com/dcosodev/racing-game.git
     cd racing-game
     ```
 
